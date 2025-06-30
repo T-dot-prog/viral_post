@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_community
+langchain_groq
+streamlit
+langchain_google_genai
+-e .
