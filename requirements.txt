@@ -4,4 +4,5 @@ langchain_community
 langchain_groq
 streamlit
 langchain_google_genai
+langgraph.checkpoint.sqlite
 -e .
