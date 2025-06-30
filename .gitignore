@@ -1,6 +1,6 @@
 # Ignore Python virtual environments
 venv/
-
+.env
 
 # Ignore setuptools/distribute package metadata
 *.egg-info/
